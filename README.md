@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshit Bansal</h1>
-<h3 align="center">A passionate Full stack developer from India</h3>
+<h3 align="center">A passionate Data Scientist from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshitbansal26367" alt="akshitbansal26367" /></a> </p>
 
